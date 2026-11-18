@@ -88,7 +88,7 @@ Bilingual output (English / 中文) is available for the same image.
 
 ## Further reading
 
-- **[How to write a museum wall label: a practical guide](https://www.autoimageannotation.com/wall-label)** —
+- **[How to write a museum wall label: a practical guide](https://www.autoimageannotation.com/services/wall-label)** —
   the four-step method, a spec table, and worked examples across four media types
 - **[AutoImageAnnotation on Dev.to](https://dev.to/achilles556688/how-to-write-a-museum-wall-label-a-practical-guide-18pk)** —
   the same guide with a developer-facing framing
